@@ -1,0 +1,63 @@
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\ITCompany v1.0.exe.config
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\ITCompany v1.0.exe
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\ITCompany v1.0.pdb
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0.csprojAssemblyReference.cache
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\App.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0_MarkupCompile.cache
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0_MarkupCompile.lref
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0.g.resources
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany_v1._0.Properties.Resources.resources
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0.csproj.GenerateResource.cache
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0.csproj.CoreCompileInputs.cache
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0.exe
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0.pdb
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Admin\AdminMenu.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\HR\HRView.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\SimpleUser\SimpleUserView.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Admin\AdminMenu.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\HR\HRView.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\SimpleUser\SimpleUserView.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Start\ForgotPasswordView.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Start\MainWindow.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Start\ForgotPasswordView.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Start\MainWindow.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\ProjectManager\PMView.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\ProjectManager\PMView.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\Style\Styles.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\App.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\EntityFramework.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\EntityFramework.xml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany v1.0.csproj.CopyComplete
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\HR\CreateUserView.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\HR\CreateUserView.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Admin\AdminMenuPM.g.cs
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\View\Admin\AdminMenuPM.baml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany_v1._0.Migrations.InitialCreate.resources
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany_v1._0.Migrations.m1.resources
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany_v1._0.Migrations.m2.resources
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany_v1._0.Migrations.m3.resources
+C:\Users\mazur\OneDrive\Desktop\TRPZ-2\ITCompany v1.0\ITCompany v1.0\obj\Debug\ITCompany_v1._0.Migrations.m4.resources

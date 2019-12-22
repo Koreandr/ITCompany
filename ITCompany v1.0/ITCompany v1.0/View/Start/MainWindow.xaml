@@ -1,0 +1,42 @@
+﻿<Window x:Class="ITCompany_v1._0.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ITCompany_v1._0"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid Background="Black">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition Width="0*"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock Grid.ColumnSpan="3" Height="95.238" Margin="347.73,1.06,343.169,0" TextWrapping="Wrap" Width="102.701" FontSize="48" FontWeight="Bold" VerticalAlignment="Top" HorizontalAlignment="Center"><Run Foreground="#FFF4E8E8" Text="Hi!"/></TextBlock>
+            <Button Name="btnLogin" Template="{StaticResource LogInButton}" Command="{Binding LoginCommand}" Grid.ColumnSpan="3"  Margin="160,344,464.6,30" >
+                    <Button.Triggers>
+                <EventTrigger RoutedEvent="Loaded">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation
+               Storyboard.TargetName="btnLogin" Storyboard.TargetProperty="Opacity"  From="1.0" To="0.0" Duration="0:0:1"   AutoReverse="True" RepeatBehavior="Forever" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+                </Button.Triggers>>
+            </Button>
+            <TextBlock Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="42.857" Margin="10,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="107.142" Text="IT Company" Foreground="#FFF3F3F3" FontSize="16"/>
+            <TextBox  Name="tbLogin" Text="{Binding Login, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="330.824,123.302,0,0"   VerticalAlignment="Top"  FontSize="20"/>
+            <TextBox  Name="tbPassword" Text="{Binding Password, UpdateSourceTrigger=PropertyChanged}" Grid.ColumnSpan="3" HorizontalAlignment="Left" Margin="331,193,0,0"   VerticalAlignment="Top"  FontSize="20"/>
+            <Label Grid.ColumnSpan="3"  Margin="94.717,123.302,0,0"  Content="Your name:" Style="{StaticResource Title}"  />
+            <Label Grid.ColumnSpan="3"  Margin="94.717,191.159,0,0" Content="Your password:"  Style="{StaticResource Title}"  />
+            <Button Click="BtnForgot_Click" Name="btnForgotPassword" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="46.428" Margin="367.624,343.91,0,0" Background="#FFF6F708" VerticalAlignment="Top" Width="295.237"  Content="Forgot your Password?&#xA;" FontSize="20" FontWeight="Bold" Foreground="Black" BorderBrush="Black"/>
+
+
+
+        </Grid>
+
+    </Grid>
+</Window>
